@@ -7,9 +7,4 @@
         echo "$num * $i = $resultado <br>";
     }
 
-
-
-
-
-
 ?>
