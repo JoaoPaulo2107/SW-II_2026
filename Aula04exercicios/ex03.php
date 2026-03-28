@@ -5,15 +5,13 @@
         return $resto;
     }
 
-    $n1=8;
+    $n1=10;
 
     $resultado = sobra($n1);
-    if ($resultado = 0) {
+    if ($resultado == 0) {
         echo "par";
     } else {
         echo "impar";
     }
-    
-    echo $resultado
     
 ?>
